@@ -19,6 +19,6 @@ await sbox.pd.scrollIntoViewIfNeeded()
     await addb.cart.click()
     await page.waitForTimeout(3000)
     
-});
+})
 
 
